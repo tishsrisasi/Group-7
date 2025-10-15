@@ -1,2 +1,2 @@
 # Group-7
-15.10.2025 - Guided Session
+Group 7 data analysis project: Currency conversion tool (GBP to EUR)
