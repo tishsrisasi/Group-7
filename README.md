@@ -16,8 +16,6 @@ b) Compute the total EUR across those items.
 <br>
 # Quick Currency Note 💷➡️💶
 
-A Python tool to convert British Pounds (GBP) to Euros (EUR) using fixed exchange rates.
-
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Solution](#solution)
