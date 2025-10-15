@@ -1,4 +1,5 @@
 # Group-7
+### Members: Tish, Lola, Terasa, Kanyin, Mitesh, Hok, Stefano, Nguka, Abdul
 Problem
 Group 7 data analysis project: Currency conversion tool (GBP to EUR)
 Scenario: Convert a couple of GBP amounts to EUR with a fixed rate. 
