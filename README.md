@@ -54,7 +54,7 @@ b) Calculate the total amount in EUR the customer will receive by summing the co
 ## Data & Specifications
 - **Exchange Rate**: 1.16 EUR per 1 GBP (fixed)
 - **Sample Input**: [12.50, 3.20] GBP
-- **Expected Output**: [14.50, 3.71] EUR
+- **Expected Output**: [14.50, 3.71] & Total Euro amount 18.21 EUR
 
 <br>
 
