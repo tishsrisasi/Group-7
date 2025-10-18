@@ -118,12 +118,11 @@ To enhance efficiency and scalability at your currency exchange bureau, you coul
 
 For continued growth, especially if retaining customer records and handling repeat transactions is important, you could further upgrade your system to use Python classes. A class-based approach would let you create Customer objects, each storing relevant transaction details and enabling features such as transaction history, tailored service, and analytics.
 
-Suggested Steps for Improvement:
+**Suggested Steps for Improvement:**
 
 - Step 1: Develop a Python function that takes a list of GBP amounts and a rate, returns converted EUR values and totals—streamlining service for multiple customers.
 
 - Step 2: Upgrade the system to use Python classes, allowing customer records to be stored, retrieved, and updated with ease. Each customer could have attributes for name, transaction history, and preferences, enabling robust record-keeping and personalized service.
-
 
 Adopting these programmatic approaches will improve operational speed, accuracy, and customer relationship management, setting your bureau up for long-term success.
 
