@@ -1,4 +1,4 @@
-# Group-7 123
+# Group-7
 ## Data Analysis Project: Currency Conversion Tool (GBP to EUR)
 
 ### Scenario:
