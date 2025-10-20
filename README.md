@@ -124,7 +124,7 @@ For continued growth, especially if retaining customer records and handling repe
 
 - Step 2: Upgrade the system to use Python classes, allowing customer records to be stored, retrieved, and updated with ease. Each customer could have attributes for name, transaction history, and preferences, enabling robust record-keeping and personalized service.
 
-Adopting these programmatic approaches will improve operational speed, accuracy, and customer relationship management, setting your bureau up for long-term success.
+Adopting these programmatic approaches will improve operational speed, accuracy, and customer relationship management, setting your bureau up for long-term success!
 
 <br>
 
